@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: fd7c5d0793a1e3b7b134
-  clientSecret: 15bc0681cd83e442dd8c0ee9ad3a6c18ebe65b96
+  clientID: c5a56555fcc184efdcc8
+  clientSecret: 193b68017e7cfa7eba88101aa1d6d408abfd1a4e
   repo: Oraer.github.io
   owner: Oraer
 
